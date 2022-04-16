@@ -1,6 +1,6 @@
----
-layout:post
-title:"First UPDATE"
----
 
+---
+layout: post
+title:  "First UPDATE!"
+---
 ### POST ###
