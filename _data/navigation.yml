@@ -2,8 +2,8 @@
 main:
   - title: "알고리즘"
     url: "/algorithm/"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "블로그"
+    url: "/blog/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
