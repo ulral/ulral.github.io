@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /algorithm/
 title: "algorithm"
 excerpt: "algorithm.md"
