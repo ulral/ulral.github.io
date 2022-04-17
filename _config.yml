@@ -284,14 +284,4 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _algorithm
-  - scope:
-      path: "/algorithm/"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+ 
