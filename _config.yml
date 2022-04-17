@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "ULR"
 description              : "JUST TO REFER CODE"
 url                      : "https://ulral.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/"
 repository               : "ulral/ulral.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -166,7 +166,6 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
   - config
   - Gemfile
   - Gruntfile.js
@@ -177,8 +176,7 @@ exclude:
   - package.json
   - package-lock.json
   - Rakefile
-  - README
-  - tmp
+  - _posts/algorithm
 keep_files:
   - .git
   - .svn
