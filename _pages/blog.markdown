@@ -1,5 +1,8 @@
 ---
-layout:home
-title:blog
+layout: home
+title: "blog"
+permalink: /blog/
+author_profile: true
 ---
-testtest
+
+#testtest
