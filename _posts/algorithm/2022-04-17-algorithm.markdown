@@ -2,7 +2,7 @@
 layout: single
 title: "About"
 author: "tjkim"
-category: algorithm
+categories: algorithm
 ---
 
 #333
