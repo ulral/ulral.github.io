@@ -1,6 +1,7 @@
 ---
 title:  "First UPDATE!"
 layout: single
+category: blog
 ---
 
 
