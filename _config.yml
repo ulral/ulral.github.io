@@ -272,9 +272,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _blog
   - scope:
-      path: ""
+      path: "/blog/"
       type: posts
     values:
       layout: single
@@ -283,4 +283,14 @@ defaults:
       comments: # true
       share: true
       related: true
- 
+   # _posts
+  - scope:
+      path: "/algorithm/"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
