@@ -2,6 +2,7 @@
 title:  "First UPDATE!"
 layout: single
 categories: blog
+tags: [blog]
 ---
 
 
