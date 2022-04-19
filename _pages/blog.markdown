@@ -2,6 +2,7 @@
 layout: home
 title: "blog"
 permalink: /blog/
+tags: [blog]
 author_profile: true
 ---
 
