@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: category
 title: "blog"
 permalink: /blog/
 tags: [blog]
