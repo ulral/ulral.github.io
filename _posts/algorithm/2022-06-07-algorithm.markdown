@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "입출력과 사칙연산 - Hello World (JAVA)"
 author: "tjkim"
 categories: algorithm
 tags: [algorithm]
