@@ -1,11 +1,3 @@
----
-layout: single
-title: "About"
-author: "tjkim"
-categories: algorithm
-tags: [algorithm]
----
-
 # 입출력과 사칙연산 - Hello World (JAVA)
 
 > 2557번
@@ -38,3 +30,11 @@ public class Main{
 
 구현해야 하는 Class의 명칭을 반드시 Main으로 해야 구동이 된다.
 앞으로 작성하게 될 모든 문서에서 참조해야할 듯하다.
+
+---
+layout: single
+title: "About"
+author: "tjkim"
+categories: algorithm
+tags: [algorithm]
+---
