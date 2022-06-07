@@ -6,8 +6,6 @@ categories: algorithm
 tags: [algorithm]
 ---
 
-# 입출력과 사칙연산 - Hello World (JAVA)
-
 > 2557번
 
  JAVA를 이용한 백준 알고리즘 포스팅 시작과 포스팅 연습!
