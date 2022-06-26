@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "We love kriii (JAVA)"
+title: "We_love_kriii (JAVA)"
 author: "tjkim"
 categories: algorithm
 tags: [algorithm]
