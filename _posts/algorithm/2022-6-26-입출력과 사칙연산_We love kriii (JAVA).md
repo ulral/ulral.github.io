@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "We love kriii (JAVA)"
+title: "입출력과 사칙연산_We love kriii (JAVA)"
 author: "tjkim"
 categories: algorithm
 tags: [algorithm]
